@@ -1,0 +1,69 @@
+# Unity — generated & heavy (speeds up `git add .`)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Crash / diagnostics
+/sysinfo.txt
+*.stacktrace
+mono_crash.*
+
+# Keep Assets/**/*.meta in git — required for Unity references.
+
+# Uncomment if you don't use JetBrains Rider plugin in repo
+# /[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Gradle (Android)
+.gradle/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.DotSettings.user
+
+# Auto-generated solution & project files (Unity regenerates)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Plastic SCM
+.plastic/
+ignore.conf
+hidden_changes.conf
+private_changes.conf
+selector.conf
+
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archives / local builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+*.7z
